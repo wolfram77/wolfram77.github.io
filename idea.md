@@ -1,4 +1,4 @@
-# ideas
+# idea
 
 
 #### MORSE
