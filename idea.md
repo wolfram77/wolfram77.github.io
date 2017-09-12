@@ -1,5 +1,7 @@
 # idea
 
+### City-wide solar mirror array for energy generation
+
 ### Basic-like toolset for JS
 WebAssembly is coming, also asm.js and JS is bocoming more performanced hopefully.
 
