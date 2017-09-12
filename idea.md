@@ -1,5 +1,7 @@
 # idea
 
+### Basic-like toolset for JS
+WebAssembly is coming, also asm.js and JS is bocoming more performanced hopefully.
 
 #### MORSE
 Morse code encode and decode tools for Windows Console.
