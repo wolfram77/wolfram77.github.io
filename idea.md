@@ -77,18 +77,6 @@ No event system is required as a result?
 
 #### PLAN TRACKING TOOL
 
-#### JAVA XML
-
-#### JAVA JSON
-
-#### JAVA SQL
-
-#### JAVA DB
-
-#### JAVA LOG
-
-#### JAVA TCP
-
 #### CSS MATERIAL
 
 #### JS WEB INCLUDE
