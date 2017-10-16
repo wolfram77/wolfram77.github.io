@@ -1,5 +1,10 @@
 # idea
 
+TV on fan.
+
+Egg sell street.
+Nimbu pani sell street.
+
 2d tank real-time strategy game using html5
 
 ### CITY WIDE SOLAR MIRROR ARRAY
