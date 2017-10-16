@@ -1,5 +1,7 @@
 # idea
 
+2d tank real-time strategy game using html5
+
 ### CITY WIDE SOLAR MIRROR ARRAY
 
 ### WEB ASSEMBLY
