@@ -1,75 +1,76 @@
-Hierarchy of Needs
-------------------
+# soft
 
-Abraham Maslow @ 1943 ; "A Theory of Human Motivation" -> Psychological Review
-
-- Physiological
-- Safety
-- Love
-- Esteem
-- Self-actualization
-
-(important) -> communication, education
-Physiological needs -> air, water, food, clothing, shelter
-Safety -> personal, financial, health, danger
-Love -> family, relatives, friends
-Esteem -> juniors, friends, elders
-Self-actualization -> goal, ideas, actions
+- [ ] distributed currency
+- [ ] operating system
+- [ ] visual language
+- [ ] farmer kickstarter
+- [ ] time-machine car race
+- [ ] ptanks 3d rts
+- [ ] fb-albums downloader
+- [ ] local dns
+- [ ] so-dll editor
+- [ ] regex transform
+- [ ] dream every building upside down
 
 
+# hard
+
+- [ ] mercury ferry
+- [ ] waste cleaner
+- [ ] air-tube transfer
+- [ ] modular v-house
+- [ ] food processor
+- [ ] plant dress
+- [ ] grandpa rv
+- [ ] ghost prop
+- [ ] drillsaw
+- [ ] cooling dress
+- [ ] dataflow cpu
+- [ ] mini ro storage
+- [ ] object protocol
+- [ ] rail-research facility
+- [ ] vr suit
+- [ ] multi-bench
+- [ ] bed-table
+- [ ] modular table
+- [ ] portable fridge
+- [ ] detachable cookware
+- [ ] fast buy
+- [ ] pen paint
+- [ ] safe jump
+- [ ] slow bulb
+- [ ] night-glow screen
+- [ ] weight plate
+- [ ] door mat
+- [ ] steam balloon
+- [ ] power supply
+- [ ] jumanji chess board
+- [ ] multi-camera telescope
+- [ ] citizen border watch
+- [ ] city-wide solar array
+- [ ] satellite acccess point
+- [ ] soil type, groundwater map
+- [ ] gas cloth cleaner
+- [ ] spider bulb
+- [ ] pen plotter
+- [ ] fan tv
+- [ ] underwater comm
 
 
-Philosophy
-----------
+# relax
 
-- Simple
-- Unified
-- Modular
-- Plastic
-- Reusable
+- [ ] street vendoring
+- [ ] carpenting, scultoring
+- [ ] travelling on a ship
+- [ ] swimming in beach
 
 
+# footer
 
+Harry: [I Love the Whole World].
+Hermoine: [Problem Solving].
+Ron: [Baby's Day Out].
 
-Communication
--------------
-
-Transmission of information (randomness) via energy.
-
-- Mechanical
-- Electrical
-- Magnetic
-- Chemical
-- Nuclear
-- Light
-- Heat
-
-Changes to any of these (in spacetime) can be used for communication.
-Stored information - disorder of arrangement (in spacetime)
-
-
-
-Clothing
---------
-
-clothing - wear cotton - plant flower - made dead - woven
-we wear - gets dirty - need cleaning - itself source of chemical colors
-bleaching agents - pesticides (cotton is the most pesticide loaded crop) [ref]
-
-what should clothes do
-- protect us
-- comfort us
-- improve looks
-
-what if our cloth was a plant, with it long, wide, thin leaves covering
-as much of our body we require. Moving like touch-me-not produce oxygen
-for us, protect, photosynthesis, absorb sweat as water sun for photosynthesis
-keep us clean (without soap) and make some fruits (leaves). filter our air as well.
-
-
-- Vertical agriculture
-- Green Clothing
-
-
-what would be the future of food you ask me?
-
+[I Love the Whole World]: https://medium.com/@abhisheksahu0422/i-love-the-whole-world-af5846b85b5c
+[Problem Solving]: https://medium.com/@abhisheksahu0422/problem-solving-17a388e4c2a0
+[Baby's Day Out]: https://www.youtube.com/watch?v=pzow5wUp7hY
