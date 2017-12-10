@@ -1,4 +1,4 @@
-# soft
+## soft
 
 - [ ] distributed currency
 - [ ] operating system
@@ -13,7 +13,7 @@
 - [ ] dream every building upside down
 
 
-# hard
+## hard
 
 - [ ] mercury ferry
 - [ ] waste cleaner
@@ -57,7 +57,7 @@
 - [ ] underwater comm
 
 
-# relax
+## relax
 
 - [ ] street vendoring
 - [ ] carpenting, scultoring
@@ -65,7 +65,7 @@
 - [ ] swimming in beach
 
 
-# footer
+## footer
 
 Harry: [I Love the Whole World].
 Hermoine: [Problem Solving].
