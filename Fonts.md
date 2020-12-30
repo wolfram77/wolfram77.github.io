@@ -1,3 +1,4 @@
 Monospace fonts:
-- [cascadia-code](https://github.com/microsoft/cascadia-code)
-- [FiraCode](https://github.com/tonsky/FiraCode)
+- [Ubuntu Mono](https://fonts.google.com/specimen/Ubuntu+Mono)
+- [Cascadia Code](https://github.com/microsoft/cascadia-code)
+- [Fira Code](https://github.com/tonsky/FiraCode)
