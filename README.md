@@ -1,3 +1,5 @@
+[Understand Problems](Understand%20Problems.pdf)
+
 ## soft
 
 - [ ] distributed currency
