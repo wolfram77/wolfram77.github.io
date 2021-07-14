@@ -79,5 +79,9 @@
 
 ## Raindrop
 
+[Main](raindrop/)
+[People](raindrop/people)
+[References](raindrop/references)
+[Topics](raindrop/topics)
 
-🤔 [Ideas](Ideas.md)
+🤔 [Ideas](ideas.md)
