@@ -1,87 +1,128 @@
-> 🙉 **Reading**:
-> 🖍️ [Xodo](https://www.xodo.com/app/#/)
-> 🎬 [Slideshare](https://www.slideshare.net/SubhajitSahu/edit_my_uploads)
+| ⠀                | ⠀                     | ⠀                 | ⠀                 |
+| ---------------- | --------------------- | ----------------- | ----------------- |
+| 🙉 **Reading**    | 🖍️ [Xodo]              | 🎬 [Slideshare]    |                   |
+| ⠀                | ⠀                     | ⠀                 | ⠀                 |
+| ✍️ **Writing**    | 📝 [Google Docs]       | 📊 [Google Sheets] | 💼 [OneDrive]      |
+| ⠀                | ⠀                     | ⠀                 | ⠀                 |
+| 💹 **Charting**   | 🖼️ [Imgur]             | 🎭 [Postimages]    | 🎨 [Google Photos] |
+|                  | 🎞️ [EZGIF]             |                   |                   |
+| ⠀                | ⠀                     | ⠀                 | ⠀                 |
+| 👏 **Citing**     | 🎓 [Google scholar]    | 🔗 [Crossref]      | ☘️ [Mendeley]      |
+|                  | 🎡 [Sciwheel]          | 🍁 [Bibcitation]   |                   |
+| ⠀                | ⠀                     | ⠀                 | ⠀                 |
+| 💟 **Decorating** | 🎓 [Unsplash Source]   | 🔗 [LoremFlickr]   | ☘️ [IconFinder]    |
+|                  | 🍁 [Emoji cheat sheet] | ✒️ [Font Awesome]  |                   |
 
-> ✍️ **Writing**:
-> 📝 [Google Docs](https://docs.google.com/document/u/0/)
-> 📊 [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
-> 💼 [OneDrive](https://onedrive.live.com)
 
-> 💹 **Charting**:
-> 🖼️ [Imgur](https://wolfram77.imgur.com/all)
-> 🎭 [Postimages](https://postimages.org)
-> 🎨 [Google Photos](https://photos.google.com)
-> 🎞️ [EZGIF](https://ezgif.com/maker)
+[//]: # (Reading)
+[Xodo]: https://www.xodo.com/app/#/
+[Slideshare]: https://www.slideshare.net/SubhajitSahu/edit_my_uploads
 
-> 👏 **Citing**:
-> 🎓 [Google scholar](https://scholar.google.com)
-> 🔗 [Crossref](https://search.crossref.org)
-> ☘️ [Mendeley](https://www.mendeley.com/reference-manager/library/all-references)
-> 🎡 [Sciwheel](https://sciwheel.com/work/#/items)
-> 🍁 [Bibcitation](https://www.bibcitation.com)
+[//]: # (Writing)
+[Google Docs]: https://docs.google.com/document/u/0/
+[Google Sheets]: https://docs.google.com/spreadsheets/u/0/
+[OneDrive]: https://onedrive.live.com
 
-> 👏 **Decorating**:
-> 🎓 [Unsplash Source](https://source.unsplash.com)
-> 🔗 [LoremFlickr](https://loremflickr.com)
-> ☘️ [IconFinder](https://www.iconfinder.com)
-> 🎡 [Sciwheel](https://sciwheel.com/work/#/items)
-> 🍁 [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
-> ✒️ [Font Awesome](https://fontawesome.com)
+[//]: # (Charting)
+[Imgur]: https://wolfram77.imgur.com/all
+[Postimages]: https://postimages.org
+[Google Photos]: https://photos.google.com
+[EZGIF]: https://ezgif.com/maker
+
+[//]: # (Citing)
+[Google scholar]: https://scholar.google.com
+[Crossref]: https://search.crossref.org
+[Mendeley]: https://www.mendeley.com/reference-manager/library/all-references
+[Sciwheel]: https://sciwheel.com/work/#/items
+[Bibcitation]: https://www.bibcitation.com
+
+[//]: # (Decorating)
+[Unsplash Source]: https://source.unsplash.com
+[LoremFlickr]: https://loremflickr.com
+[IconFinder]: https://www.iconfinder.com
+[Emoji cheat sheet]: https://github.com/ikatyang/emoji-cheat-sheet
+[Font Awesome]: https://fontawesome.com
 
 <br>
-
-## Raindrop
-
-> 🎧 [Listening](https://raindrop.io/wolfram77/listening-19019475)
-> 📰 [Reading](https://raindrop.io/wolfram77/reading-19019332)
-> ✍️ [Writing](https://raindrop.io/wolfram77/writing-19019235)<br>
-> 👏 [Citing](https://raindrop.io/wolfram77/citing-19019334)
-> 💹 [Charting](https://raindrop.io/wolfram77/charting-19019313)
-> 💟 [Decorating](https://raindrop.io/wolfram77/decorating-19019193)<br>
-> 💾 [Programming](https://raindrop.io/wolfram77/programming-19019137)
-> 📜 [Documenting](https://raindrop.io/wolfram77/documenting-19019183)
-> ✨ [Converting](https://raindrop.io/wolfram77/converting-19019346)<br>
-> 📦 [Packaging](https://raindrop.io/wolfram77/packaging-19019348)
-> 🌐 [Hosting](https://raindrop.io/wolfram77/hosting-19019242)
-
-> 🧑‍🤝‍🧑 **People**:<br>
-> 🔬 [Researchers](https://raindrop.io/wolfram77/p-researchers-19019321)
-> 🏭 [Industrialists](https://raindrop.io/wolfram77/p-industrialists-19019329)
-> 💾 [Programmers](https://raindrop.io/wolfram77/p-programmers-19019453)
-
-> 📚 **References**:<br>
-> 🥚 [Eggs](https://raindrop.io/wolfram77/r-eggs-19019502)
-> ✒️ [Fonts](https://raindrop.io/wolfram77/r-fonts-19019943)
-> 🎮 [Games](https://raindrop.io/wolfram77/r-games-19019513)<br>
-> 🕸️ [Graph Formats](https://raindrop.io/wolfram77/r-graph-formats-19019525)
-> 🌐 [Graph Datasets](https://raindrop.io/wolfram77/r-graph-datasets-19019518)
-> 🖧 [Graph Libraries](https://raindrop.io/wolfram77/r-graph-libraries-19019494)<br>
-> 🗺️ [Survey Maps](https://raindrop.io/wolfram77/r-survey-maps-19019587)
-> 💍 [Fellowship](https://raindrop.io/wolfram77/r-fellowship-19019459)
-> 🗳️ [Government](https://raindrop.io/wolfram77/r-government-19019529)
-
-> 🕯️ **Topics**:<br>
-> 🗳️ [Politics](https://raindrop.io/wolfram77/t-politics-19019355)
-> ✍️ [Writing](https://raindrop.io/wolfram77/t-writing-19019318)
-> 📦 [Packaging](https://raindrop.io/wolfram77/t-packaging-19019362)<br>
-> 💾 [Programming](https://raindrop.io/wolfram77/t-programming-19019369)
-> 💽 [Data Structures](https://raindrop.io/wolfram77/t-data-structures-19019480)
-> 🕸️ [Graph Theory](https://raindrop.io/wolfram77/t-graph-theory-19019577)<br>
-> 🖥️ [Distributed HPC](https://raindrop.io/wolfram77/t-distributed-hpc-19019770)
-> 🖧 [Computer Networks](https://raindrop.io/wolfram77/t-computer-networks-19019591)
-> 🔒 [Computer Security](https://raindrop.io/wolfram77/t-computer-security-19019763)<br>
-> ⚙️ [Open Hardware](https://raindrop.io/wolfram77/t-open-hardware-19019564)
-> 🥥 [Health & Nutrition](https://raindrop.io/wolfram77/t-health-and-nutrition-19019746)
-> 🚀 [Space Exploration](https://raindrop.io/wolfram77/t-space-exploration-19019765)<br>
-> 🌍 [Geology](https://raindrop.io/wolfram77/t-geology-19019774)
-> 🐘 [Zoology](https://raindrop.io/wolfram77/t-zoology-19019767)
+<br>
 
 
-## Raindrop
+| ⠀                  | ⠀                     | ⠀                        | ⠀                       |
+| ------------------ | --------------------- | ------------------------ | ----------------------- |
+| 📚 [**Actions**]    | 🎧 [Listening]         | 📰 [Reading]              | ✍️ [Writing]             |
+|                    | 👏 [Citing]            | 💹 [Charting]             | 💟 [Decorating]          |
+|                    | 💾 [Programming]       | 📜 [Documenting]          | ✨ [Converting]          |
+|                    | 📦 [Packaging]         | 🌐 [Hosting]              |                         |
+| ⠀                  | ⠀                     | ⠀                        | ⠀                       |
+| 🧑‍🤝‍🧑 [**People**]   | 🔬 [P-Researchers]     | 🏭 [P-Industrialists]     | 💾 [P-Programmers]       |
+| ⠀                  | ⠀                     | ⠀                        | ⠀                       |
+| 📚 [**References**] | 🥚 [R-Eggs]            | ✒️ [R-Fonts]              | 🎮 [R-Games]             |
+|                    | 🕸️ [R-Graph Formats]   | 🌐 [R-Graph Datasets]     | 🖧 [R-Graph Libraries]   |
+|                    | 🗺️ [R-Survey Maps]     | 💍 [R-Fellowship]         | 🗳️ [R-Government]        |
+| ⠀                  | ⠀                     | ⠀                        | ⠀                       |
+| 📚 [**Topics**]     | 🗳️ [T-Politics]        | ✍️ [T-Writing]            | 📦 [T-Packaging]         |
+|                    | 💾 [T-Programming]     | 💽 [T-Data Structures]    | 🕸️ [T-Graph Theory]      |
+|                    | 🖥️ [T-Distributed HPC] | 🖧 [T-Computer Networks]  | 🔒 [T-Computer Security] |
+|                    | ⚙️ [T-Open Hardware]   | 🥥 [T-Health & Nutrition] | 🚀 [T-Space Exploration] |
+|                    | 🌍 [T-Geology]         | 🐘 [T-Zoology]            |                         |
 
-[Main](raindrop/)
-[People](raindrop/people)
-[References](raindrop/references)
-[Topics](raindrop/topics)
 
+[**Actions**]: actions
+[Listening]: https://pinboard.opera.com/view/b2daba3e-c176-4b2a-aa9b-e55f999239c6
+[Reading]: https://pinboard.opera.com/view/487d0cff-cd94-4fd5-8a91-9c926a63a0fe
+[Writing]: https://pinboard.opera.com/view/498c54bd-84e1-42e5-92e0-e466d0a12999
+[Citing]: https://pinboard.opera.com/view/c5f04167-9794-4b8e-8669-7e249e23bd95
+[Charting]: https://pinboard.opera.com/view/dc091bb6-41aa-443e-b1e5-e2b8f8c645c0
+[Decorating]: https://pinboard.opera.com/view/450c96d6-a0b2-4dbd-be8b-0ea265df2cd1
+[Programming]: https://pinboard.opera.com/view/cf9ee12d-f427-4614-887a-c1e07432498e
+[Documenting]: https://pinboard.opera.com/view/4ab72dba-6daa-4f57-908f-2bbf42eb749a
+[Converting]: https://pinboard.opera.com/view/0f414b40-65ce-4a32-af33-d44921f3cead
+[Packaging]: https://pinboard.opera.com/view/0da002e9-e015-4fb2-bc96-960ea0c5ccb6
+[Hosting]: https://pinboard.opera.com/view/6fae4349-af75-45d9-9547-107b0d456530
+
+[**People**]: people
+[P-Researchers]: https://pinboard.opera.com/view/4ef18aca-d26a-4675-90b3-74208fe7e30c
+[P-Industrialists]: https://pinboard.opera.com/view/4f6fe226-f3fa-46a2-b439-e2d56c437463
+[P-Programmers]: https://pinboard.opera.com/view/f3460ba0-902b-41c7-a612-faae6a61e2f3
+
+[**References**]: references
+[R-Eggs]: https://pinboard.opera.com/view/a7c065e2-2b52-40af-9a39-706d5711f5a2
+[R-Fonts]: https://pinboard.opera.com/view/877f58cb-86af-49a6-a443-d720dbf9f8e0
+[R-Games]: https://pinboard.opera.com/view/e90b71ef-47ed-4104-a4fd-56ebc688646f
+[R-Graph Formats]: https://pinboard.opera.com/view/4f89f34f-48a2-4f6a-b74a-3eb39ed83362
+[R-Graph Datasets]: https://pinboard.opera.com/view/82fa7f47-f4f5-40eb-ada9-7a69727afb12
+[R-Graph Libraries]: https://pinboard.opera.com/view/0be809dc-7390-4958-b9f9-72e6c7e2702b
+[R-Survey Maps]: https://pinboard.opera.com/view/ab3c4ed4-6480-4526-a710-5b295d094d80
+[R-Fellowship]: https://pinboard.opera.com/view/efa110f0-32c3-42c4-ab0b-7986bfd8ba2a
+[R-Government]: https://pinboard.opera.com/view/80941e7c-31e1-4daf-9e7b-ccbc000a39a1
+
+[**Topics**]: topics
+[T-Politics]: https://pinboard.opera.com/view/1ca2c1fb-508e-41df-b16e-5e2db7d30dc5
+[T-Writing]: https://pinboard.opera.com/view/a3312f8c-d0a6-44c3-a2f9-9b989f2ccc20
+[T-Packaging]: https://pinboard.opera.com/view/0d550328-2b95-4e77-bec9-7e1bdc3497f0
+[T-Programming]: https://pinboard.opera.com/view/9750c2ef-3cd1-46ec-aa46-50a5c7892807
+[T-Data Structures]: https://pinboard.opera.com/view/ad965922-2022-4e0b-8968-a1abc69eb6bb
+[T-Graph Theory]: https://pinboard.opera.com/view/1c680231-56ee-4b46-ac9d-6216283545b5
+[T-Distributed HPC]: https://pinboard.opera.com/view/629024a5-f5f7-4c7c-8c9d-86fca00c5ef8
+[T-Computer Networks]: https://pinboard.opera.com/view/82f010aa-c8db-42ea-b823-a00f51892af0
+[T-Computer Security]: https://pinboard.opera.com/view/4ec01886-a834-49f3-9328-b0e1b2bc73df
+[T-Open Hardware]: https://pinboard.opera.com/view/b393896a-9cf3-4518-b9d2-f460c9529ebd
+[T-Health & Nutrition]: https://pinboard.opera.com/view/f52aca0d-8d05-4a7d-b98d-94475a764d0e
+[T-Space Exploration]: https://pinboard.opera.com/view/da0d0cad-1a4a-408c-a30c-e49b571c8fbe
+[T-Geology]: https://pinboard.opera.com/view/2af41cc4-7eb6-4372-8528-47a3d8e7323b
+[T-Zoology]: https://pinboard.opera.com/view/ff57e0f7-006a-43cf-a5c9-25a79efac5ad
+
+<br>
+<br>
+
+
+🌧️ [RainDrop bookmarks](raindrop)
 🤔 [Ideas](ideas.md)
+
+<br>
+<br>
+
+
+## References
+
+- [Comments in Markdown](https://stackoverflow.com/a/20885980/1413259)
