@@ -126,3 +126,8 @@
 ## References
 
 - [Comments in Markdown](https://stackoverflow.com/a/20885980/1413259)
+
+<br>
+<br>
+
+[![](https://i.imgur.com/hz9LmXf.png)](https://orcid.org/0000-0001-5140-6578)
