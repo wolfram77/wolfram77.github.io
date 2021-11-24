@@ -1,73 +1,68 @@
-| ⠀                | ⠀                     | ⠀                 | ⠀                 |
-| ---------------- | --------------------- | ----------------- | ----------------- |
-| 🙉 **Reading**    | 🖍️ [Xodo]              | 🎬 [Slideshare]    |                   |
-| ⠀                | ⠀                     | ⠀                 | ⠀                 |
-| ✍️ **Writing**    | 📝 [Google Docs]       | 📊 [Google Sheets] | 💼 [OneDrive]      |
-| ⠀                | ⠀                     | ⠀                 | ⠀                 |
-| 💹 **Charting**   | 🖼️ [Imgur]             | 🎭 [Postimages]    | 🎨 [Google Photos] |
-|                  | 🎞️ [EZGIF]             |                   |                   |
-| ⠀                | ⠀                     | ⠀                 | ⠀                 |
-| 👏 **Citing**     | 🎓 [Google scholar]    | 🔗 [Crossref]      | ☘️ [Mendeley]      |
-|                  | 🎡 [Sciwheel]          | 🍁 [Bibcitation]   |                   |
-| ⠀                | ⠀                     | ⠀                 | ⠀                 |
-| 💟 **Decorating** | 🎓 [Unsplash Source]   | 🔗 [LoremFlickr]   | ☘️ [IconFinder]    |
-|                  | 🍁 [Emoji cheat sheet] | ✒️ [Font Awesome]  |                   |
-
-
-[//]: # (Reading)
-[Xodo]: https://www.xodo.com/app/#/
-[Slideshare]: https://www.slideshare.net/SubhajitSahu/edit_my_uploads
-
-[//]: # (Writing)
-[Google Docs]: https://docs.google.com/document/u/0/
-[Google Sheets]: https://docs.google.com/spreadsheets/u/0/
-[OneDrive]: https://onedrive.live.com
-
-[//]: # (Charting)
-[Imgur]: https://wolfram77.imgur.com/all
-[Postimages]: https://postimages.org
-[Google Photos]: https://photos.google.com
-[EZGIF]: https://ezgif.com/maker
-
-[//]: # (Citing)
-[Google scholar]: https://scholar.google.com
-[Crossref]: https://search.crossref.org
-[Mendeley]: https://www.mendeley.com/reference-manager/library/all-references
-[Sciwheel]: https://sciwheel.com/work/#/items
-[Bibcitation]: https://www.bibcitation.com
-
-[//]: # (Decorating)
-[Unsplash Source]: https://source.unsplash.com
-[LoremFlickr]: https://loremflickr.com
-[IconFinder]: https://www.iconfinder.com
-[Emoji cheat sheet]: https://github.com/ikatyang/emoji-cheat-sheet
-[Font Awesome]: https://fontawesome.com
+- [The "really" small subset of courses i took at IIIT Hyderabad](https://iiithf.github.io/)
+- [A summary of courses, projects, and semesters at NIT Rourkela](https://nitrece.github.io/)
+- [A summary of courses, projects, and semesters](https://nitrece.github.io/)
+- [A summary of programs made with Node.js](https://nodef.github.io/)
+- 📺 [Display info card image for NPM packages (scoped)](https://nodeico.github.io/)
+- 📺 [A summary of programs made with Processing](https://processingf.github.io)
+- 📖 [A summary of experiments](https://puzzlef.github.io/)
+- 🛸 [A summary of programs made with QuickBASIC in DOS](https://qb40.github.io/)
+- ➰ [A set of assignments in the Racket programming language](https://racketf.github.io/)
+- 💽 [A summary of VHDL examples and projects](https://vhdlf.github.io/)
+- 📺 [A set of mini Windows Applications](https://winp.github.io/)
 
 <br>
 <br>
 
 
-| ⠀                  | ⠀                     | ⠀                        | ⠀                       |
-| ------------------ | --------------------- | ------------------------ | ----------------------- |
-| 📚 [**Actions**]    | 🎧 [Listening]         | 📰 [Reading]              | ✍️ [Writing]             |
-|                    | 👏 [Citing]            | 💹 [Charting]             | 💟 [Decorating]          |
-|                    | 💾 [Programming]       | 📜 [Documenting]          | ✨ [Converting]          |
-|                    | 📦 [Packaging]         | 🌐 [Hosting]              |                         |
-| ⠀                  | ⠀                     | ⠀                        | ⠀                       |
-| 🧑‍🤝‍🧑 [**People**]   | 🔬 [P-Researchers]     | 🏭 [P-Industrialists]     | 💾 [P-Programmers]       |
-| ⠀                  | ⠀                     | ⠀                        | ⠀                       |
-| 📚 [**References**] | 🥚 [R-Eggs]            | ✒️ [R-Fonts]              | 🎮 [R-Games]             |
-|                    | 🕸️ [R-Graph Formats]   | 🌐 [R-Graph Datasets]     | 🖧 [R-Graph Libraries]   |
-|                    | 🗺️ [R-Survey Maps]     | 💍 [R-Fellowship]         | 🗳️ [R-Government]        |
-| ⠀                  | ⠀                     | ⠀                        | ⠀                       |
-| 📚 [**Topics**]     | 🗳️ [T-Politics]        | ✍️ [T-Writing]            | 📦 [T-Packaging]         |
-|                    | 💾 [T-Programming]     | 💽 [T-Data Structures]    | 🕸️ [T-Graph Theory]      |
-|                    | 🖥️ [T-Distributed HPC] | 🖧 [T-Computer Networks]  | 🔒 [T-Computer Security] |
-|                    | ⚙️ [T-Open Hardware]   | 🥥 [T-Health & Nutrition] | 🚀 [T-Space Exploration] |
-|                    | 🌍 [T-Geology]         | 🐘 [T-Zoology]            |                         |
+## Reports
 
+- [Exploring optimizations for dynamic pagerank algorithm based on CUDA](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa)
+- [Parallelizing PageRank for a Volta GPU](https://gist.github.com/wolfram77/4ef16ab9699ac03a617b8731dd240e1f)
+- [Dead End handling strategies for PageRank algorithm](https://gist.github.com/wolfram77/94c38b9cfbf0c855e5f42fa24a8602fc)
+- [Rank adjustment strategies for Dynamic PageRank](https://gist.github.com/wolfram77/eb7a3b2e44e3c2069e046389b45ead03)
+- [Effect of stepwise adjustment of Damping factor upon PageRank](https://gist.github.com/wolfram77/14272ddfd5fd7560a8c3edf899fc475b)
+- [SIR Model, Disease Modelling, Epidemiology](https://gist.github.com/wolfram77/45a01f935b6a72800af16ddbe0af34e3)
+- [Medical organizations, USA and India](https://gist.github.com/wolfram77/a7a90549c3c36667860d2832c093a72b)
+- [Nonblocking k-compare-single-swap](https://gist.github.com/wolfram77/77758eb9f7d393598fc142d9559e5a5e)
+- [Concurrency in Distributed Systems, Leslie Lamport papers](https://gist.github.com/wolfram77/3507129650f2e56e00da013a7de93ddb)
+- [DDR, GDDR, HBM SDRAM Memory](https://gist.github.com/wolfram77/28da72ab511eacafbd55f3576fb03019)
+- [Wide Area Network for File sharing, Energy & Gas metering, Fire alarm, Burglar security between 1 Village & 2 Apartments](https://gist.github.com/wolfram77/ba793d29b17b701687bd2a9d1f0e1f28)
+- [LAN Design for Golf View Apartments](https://gist.github.com/wolfram77/f4b403b31f60d562b0ab05c821e1fe3f)
+- [Distance Vector Multicast Routing Protocol (DVMRP)](https://gist.github.com/wolfram77/ace297c1087a99fa2f3549914922bf19)
+- [Submarine cables, Indian Perspective](https://gist.github.com/wolfram77/b1ea41b91a2971aab383a4f6cf4e6378)
+- [Internet Hierarchy, APNIC](https://gist.github.com/wolfram77/53c17aa4aeb99f2c619202d044d783e7)
+- [Request For Comments (RFC)](https://gist.github.com/wolfram77/a2f344125aff9657f97e61b7f2219462)
+- [Design and Implementation of a Heterogeneous Sensor-based Embedded System for Flood Management](https://gist.github.com/wolfram77/4c7c68174a5a48ce7f9352a705ed0915)
+- [Smart Grid Monitoring](https://gist.github.com/wolfram77/04f46fdd9b781ad885b6b3ceb4ccbac8)
+- [Monitoring Voltage and Current at various nodes in a Smart Grid](https://gist.github.com/wolfram77/292be6f04bfa02f287edecaf207b8a57)
+- [Understand Problems](https://gist.github.com/wolfram77/be1b0cec6825515057058fe1dde843c9)
 
-[**Actions**]: actions
+<br>
+<br>
+
+| ⠀                | ⠀                     | ⠀                        | ⠀                       |
+| ---------------- | --------------------- | ------------------------ | ----------------------- |
+| 📚 **Actions**    | 🎧 [Listening]         | 📰 [Reading]              | ✍️ [Writing]             |
+|                  | 👏 [Citing]            | 💹 [Charting]             | 💟 [Decorating]          |
+|                  | 💾 [Programming]       | 📜 [Documenting]          | ✨ [Converting]          |
+|                  | 📦 [Packaging]         | 🌐 [Hosting]              |                         |
+| ⠀                | ⠀                     | ⠀                        | ⠀                       |
+| 🧑‍🤝‍🧑 **People**   | 🔬 [P-Researchers]     | 🏭 [P-Industrialists]     | 💾 [P-Programmers]       |
+| ⠀                | ⠀                     | ⠀                        | ⠀                       |
+| 📚 **References** | 🥚 [R-Eggs]            | ✒️ [R-Fonts]              | 🎮 [R-Games]             |
+|                  | 🕸️ [R-Graph Formats]   | 🌐 [R-Graph Datasets]     | 🖧 [R-Graph Libraries]   |
+|                  | 🗺️ [R-Survey Maps]     | 💍 [R-Fellowship]         | 🗳️ [R-Government]        |
+| ⠀                | ⠀                     | ⠀                        | ⠀                       |
+| 📚 **Topics**     | 🗳️ [T-Politics]        | ✍️ [T-Writing]            | 📦 [T-Packaging]         |
+|                  | 💾 [T-Programming]     | 💽 [T-Data Structures]    | 🕸️ [T-Graph Theory]      |
+|                  | 🖥️ [T-Distributed HPC] | 🖧 [T-Computer Networks]  | 🔒 [T-Computer Security] |
+|                  | ⚙️ [T-Open Hardware]   | 🥥 [T-Health & Nutrition] | 🚀 [T-Space Exploration] |
+|                  | 🌍 [T-Geology]         | 🐘 [T-Zoology]            |                         |
+
+🌧️ [RainDrop bookmarks](https://raindrop.io/wolfram77)
+🤔 [Ideas](ideas.md)
+
+[//]: # (ACTIONS)
 [Listening]: https://pinboard.opera.com/view/b2daba3e-c176-4b2a-aa9b-e55f999239c6
 [Reading]: https://pinboard.opera.com/view/487d0cff-cd94-4fd5-8a91-9c926a63a0fe
 [Writing]: https://pinboard.opera.com/view/498c54bd-84e1-42e5-92e0-e466d0a12999
@@ -80,12 +75,12 @@
 [Packaging]: https://pinboard.opera.com/view/0da002e9-e015-4fb2-bc96-960ea0c5ccb6
 [Hosting]: https://pinboard.opera.com/view/6fae4349-af75-45d9-9547-107b0d456530
 
-[**People**]: people
+[//]: # (PEOPLE)
 [P-Researchers]: https://pinboard.opera.com/view/4ef18aca-d26a-4675-90b3-74208fe7e30c
 [P-Industrialists]: https://pinboard.opera.com/view/4f6fe226-f3fa-46a2-b439-e2d56c437463
 [P-Programmers]: https://pinboard.opera.com/view/f3460ba0-902b-41c7-a612-faae6a61e2f3
 
-[**References**]: references
+[//]: # (REFERENCES)
 [R-Eggs]: https://pinboard.opera.com/view/a7c065e2-2b52-40af-9a39-706d5711f5a2
 [R-Fonts]: https://pinboard.opera.com/view/877f58cb-86af-49a6-a443-d720dbf9f8e0
 [R-Games]: https://pinboard.opera.com/view/e90b71ef-47ed-4104-a4fd-56ebc688646f
@@ -96,7 +91,7 @@
 [R-Fellowship]: https://pinboard.opera.com/view/efa110f0-32c3-42c4-ab0b-7986bfd8ba2a
 [R-Government]: https://pinboard.opera.com/view/80941e7c-31e1-4daf-9e7b-ccbc000a39a1
 
-[**Topics**]: topics
+[//]: # (TOPICS)
 [T-Politics]: https://pinboard.opera.com/view/1ca2c1fb-508e-41df-b16e-5e2db7d30dc5
 [T-Writing]: https://pinboard.opera.com/view/a3312f8c-d0a6-44c3-a2f9-9b989f2ccc20
 [T-Packaging]: https://pinboard.opera.com/view/0d550328-2b95-4e77-bec9-7e1bdc3497f0
@@ -111,13 +106,6 @@
 [T-Space Exploration]: https://pinboard.opera.com/view/da0d0cad-1a4a-408c-a30c-e49b571c8fbe
 [T-Geology]: https://pinboard.opera.com/view/2af41cc4-7eb6-4372-8528-47a3d8e7323b
 [T-Zoology]: https://pinboard.opera.com/view/ff57e0f7-006a-43cf-a5c9-25a79efac5ad
-
-<br>
-<br>
-
-
-🌧️ [RainDrop bookmarks](raindrop)
-🤔 [Ideas](ideas.md)
 
 <br>
 <br>
