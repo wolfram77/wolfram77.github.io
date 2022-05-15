@@ -13,33 +13,6 @@
 <br>
 <br>
 
-
-## Reports
-
-- [Exploring optimizations for dynamic pagerank algorithm based on CUDA](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa)
-- [Parallelizing PageRank for a Volta GPU](https://gist.github.com/wolfram77/4ef16ab9699ac03a617b8731dd240e1f)
-- [Dead End handling strategies for PageRank algorithm](https://gist.github.com/wolfram77/94c38b9cfbf0c855e5f42fa24a8602fc)
-- [Rank adjustment strategies for Dynamic PageRank](https://gist.github.com/wolfram77/eb7a3b2e44e3c2069e046389b45ead03)
-- [Effect of stepwise adjustment of Damping factor upon PageRank](https://gist.github.com/wolfram77/14272ddfd5fd7560a8c3edf899fc475b)
-- [SIR Model, Disease Modelling, Epidemiology](https://gist.github.com/wolfram77/45a01f935b6a72800af16ddbe0af34e3)
-- [Medical organizations, USA and India](https://gist.github.com/wolfram77/a7a90549c3c36667860d2832c093a72b)
-- [Nonblocking k-compare-single-swap](https://gist.github.com/wolfram77/77758eb9f7d393598fc142d9559e5a5e)
-- [Concurrency in Distributed Systems, Leslie Lamport papers](https://gist.github.com/wolfram77/3507129650f2e56e00da013a7de93ddb)
-- [DDR, GDDR, HBM SDRAM Memory](https://gist.github.com/wolfram77/28da72ab511eacafbd55f3576fb03019)
-- [Wide Area Network for File sharing, Energy & Gas metering, Fire alarm, Burglar security between 1 Village & 2 Apartments](https://gist.github.com/wolfram77/ba793d29b17b701687bd2a9d1f0e1f28)
-- [LAN Design for Golf View Apartments](https://gist.github.com/wolfram77/f4b403b31f60d562b0ab05c821e1fe3f)
-- [Distance Vector Multicast Routing Protocol (DVMRP)](https://gist.github.com/wolfram77/ace297c1087a99fa2f3549914922bf19)
-- [Submarine cables, Indian Perspective](https://gist.github.com/wolfram77/b1ea41b91a2971aab383a4f6cf4e6378)
-- [Internet Hierarchy, APNIC](https://gist.github.com/wolfram77/53c17aa4aeb99f2c619202d044d783e7)
-- [Request For Comments (RFC)](https://gist.github.com/wolfram77/a2f344125aff9657f97e61b7f2219462)
-- [Design and Implementation of a Heterogeneous Sensor-based Embedded System for Flood Management](https://gist.github.com/wolfram77/4c7c68174a5a48ce7f9352a705ed0915)
-- [Smart Grid Monitoring](https://gist.github.com/wolfram77/04f46fdd9b781ad885b6b3ceb4ccbac8)
-- [Monitoring Voltage and Current at various nodes in a Smart Grid](https://gist.github.com/wolfram77/292be6f04bfa02f287edecaf207b8a57)
-- [Understand Problems](https://gist.github.com/wolfram77/be1b0cec6825515057058fe1dde843c9)
-
-<br>
-<br>
-
 | ⠀                | ⠀                     | ⠀                        | ⠀                       |
 | ---------------- | --------------------- | ------------------------ | ----------------------- |
 | 📚 **Actions**    | 🎧 [Listening]         | 📰 [Reading]              | ✍️ [Writing]             |
