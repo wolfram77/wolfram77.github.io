@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Monokai"
+}

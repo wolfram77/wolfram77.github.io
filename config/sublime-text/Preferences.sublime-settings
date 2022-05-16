@@ -1,0 +1,23 @@
+{
+	// FONT
+	"font_face": "Consolas",
+	"font_size": 11,
+	"font_options": ["bold"],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+
+	// CURSOR
+	"caret_style": "phase",
+	"wide_caret": true,
+	"highlight_line": true,
+
+	// VIEW
+	"bold_folder_labels": true,
+	"highlight_modified_tabs": true,
+	"always_show_minimap_viewport": true,
+	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": "all",
+	"hot_exit": "disabled"
+}
