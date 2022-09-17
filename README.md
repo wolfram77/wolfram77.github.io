@@ -1,3 +1,9 @@
+PhD student at CSTAR in IIIT Hyderabad and interested in 💽 Software engineering,
+🗜️ *Carpentry*, 🔥 High performance computing, 🚲 *Cycling*, 🎁 Embedded systems,
+🍄 *Nutrition*, 💰 Investing, and 🕹️ *Watching gameplays*.<br>
+
+<br>
+
 | Project | Description |
 |  ----  |  ----  |
 | ![][i-nodef] [nodef] | A summary of programs made with Node.js. |
@@ -12,7 +18,7 @@
 | ![][i-vhdlf] [vhdlf] | A summary of VHDL examples and projects. |
 | ![][i-processingf] [processingf] | A summary of programs made with Processing |
 
-🌧️ [Bookmarks](bookmarks.md)
+🔖 [Bookmarks](bookmarks.md)
 🤔 [Ideas](ideas.md)
 
 [//]: # (LOGO)
@@ -46,3 +52,5 @@
 
 
 [![](https://i.imgur.com/hz9LmXf.png)](https://orcid.org/0000-0001-5140-6578)
+[![github](https://img.shields.io/badge/github-wolfram77-green?logo=GitHub)](https://github.com/wolfram77)
+[![email](https://img.shields.io/badge/email-wolfram77@gmail.com-green?logo=Gmail)](mailto:wolfram77@gmail.com)
