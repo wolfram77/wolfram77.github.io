@@ -1,0 +1,16 @@
+- Batch Rename
+- Better C++ Syntax
+- C/C++ Extension Pack
+- Carbon Product Icons
+- CMake
+- Doxygen Documentation Generator
+- Excel Viewer
+- Gnuplot
+- Markdown All in One
+- monokai light
+- Remote - SSH
+- Remote - SSH: Editing Configuration Files
+- Rewrap
+- Simple Alignment
+- vscode-pdf
+- Code Spell Checker
