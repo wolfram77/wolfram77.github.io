@@ -4,6 +4,15 @@ PhD student at CSTAR in IIIT Hyderabad and interested in 💽 Software engineeri
 
 <br>
 
+
+### Beware of fraud!
+
+A man calling himself Hemant asked for help to fix his bike as his UPI transactions in Union Bank were not working, as said will pay back once he reaches office at Begumpet. He asked me to send money to the shopkeeper, by this time i was at IIIT. I sent to this shopkeeper Rs. 1150 yesterday. Night i called him at turns out phone is switched off. I message him on PhonePe and get no reply. He has made no effort to contact me after the trasaction. I called the shopkeeper today, and turns out he is another person who just paid him cash for UPI money.
+
+<br>
+<br>
+
+
 | Project | Description |
 |  ----  |  ----  |
 | ![][i-nodef] [nodef] | A summary of programs made with Node.js. |
