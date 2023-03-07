@@ -1,6 +1,6 @@
-PhD student at CSTAR in IIIT Hyderabad and interested in 💽 Software engineering,
-🗜️ *Carpentry*, 🔥 High performance computing, 🚲 *Cycling*, 🎁 Embedded systems,
-🍄 *Nutrition*, 💰 Investing, and 🕹️ *Watching gameplays*.<br>
+PhD student at CSTAR in IIIT Hyderabad and interested in 💽 Software
+engineering, 🗜️ *Carpentry*, 🔥 High performance computing, 🚲 *Cycling*, 🎁
+Embedded systems, 🍄 *Nutrition*, 💰 Investing, and 🕹️ *Watching gameplays*.<br>
 
 <br>
 
@@ -28,6 +28,7 @@ A man calling himself Hemant asked for help to fix his bike as his UPI transacti
 | ![][i-processingf] [processingf] | A summary of programs made with Processing |
 
 🔖 [Bookmarks](bookmarks.md)
+🤕 [Harsh realities](realities.md)
 🤔 [Ideas](ideas.md)
 
 [//]: # (LOGO)
