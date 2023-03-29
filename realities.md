@@ -14,8 +14,11 @@
 
 > Okay, gotta go. Off to the gym, then dinner, then home, then bed. [(REF)][05wbwhy]
 
+> Statistics don't lie, but liars use statistics. [(REF)][06agold]
+
 <br>
 <br>
+
 
 [![](https://i.imgur.com/uDKXyyr.jpg)][03linus]<br>
 [![](https://i.imgur.com/hdmsJH0.png)][03linus]<br>
@@ -54,3 +57,4 @@
 [03linus]:  https://medium.com/codex/5-harsh-truths-from-linus-torvalds-406ab20cea02
 [04wbwhy]:  https://waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html
 [05wbwhy]:  https://waitbutwhy.com/2013/07/7-ways-to-be-insufferable-on-facebook.html
+[06agold]:  https://www.youtube.com/watch?v=yaWVflQolmM
