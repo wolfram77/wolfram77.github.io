@@ -29,7 +29,7 @@ A man calling himself Hemant asked for help to fix his bike as his UPI transacti
 
 🔖 [Bookmarks](bookmarks.md)
 🤕 [Harsh realities](realities.md)
-🤔 [Ideas](ideas.md)
+💭 [Ideas](ideas.md)
 
 [//]: # (LOGO)
 [i-nodef]: https://avatars.githubusercontent.com/u/32850785?s=16&v=4
