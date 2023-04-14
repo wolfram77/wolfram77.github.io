@@ -96,8 +96,24 @@ Ron: [Baby's Day Out].
 <br>
 
 
+[![](https://i.imgur.com/qTUS1pf.jpg)][02githb]
+
+<br>
+<br>
+
+
+## References
+
+- [Sunny Side Up 🍳: Boiling Frog Syndrome, Potato Chips Pollution & Iceberg Spending : Finshots][01finsh]
+- [Clarifying the scope and mission of uBlue : Jorge O. Castro][02githb]
+
+<br>
+<br>
+
+
 [![](https://img.youtube.com/vi/VrMZlrtbXUM/maxresdefault.jpg)](https://www.youtube.com/watch?v=VrMZlrtbXUM)
 [![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
 
 
 [01finsh]: https://finshots.in/archive/boiling-frog-syndrome-and-iceberg/
+[02githb]: https://github.com/orgs/ublue-os/discussions/125
