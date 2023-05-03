@@ -4,7 +4,7 @@ Check out these interesting topics (*bookmarks*).
 | ---------------- | --------------------- | ------------------------ | ----------------------- |
 | 📚 **Actions**    | 🎧 [Listening]         | 📰 [Reading]              | ✍️ [Writing]             |
 |                  | 👏 [Citing]            | 💹 [Charting]             | 💟 [Decorating]          |
-|                  | 💾 [Programming]       | 📜 [Documenting]          | ✨ [Converting]          |
+|                  | 💾 [Programming]       | 📜 [Publishing]          | ✨ [Converting]          |
 |                  | 📦 [Packaging]         | 🌐 [Hosting]              |                         |
 | ⠀                | ⠀                     | ⠀                        | ⠀                       |
 | 🧑‍🤝‍🧑 **People**   | 🔬 [P-Researchers]     | 🏭 [P-Industrialists]     | 💾 [P-Programmers]       |
@@ -29,7 +29,7 @@ Check out these interesting topics (*bookmarks*).
 [Charting]: https://pinboard.opera.com/view/dc091bb6-41aa-443e-b1e5-e2b8f8c645c0
 [Decorating]: https://pinboard.opera.com/view/450c96d6-a0b2-4dbd-be8b-0ea265df2cd1
 [Programming]: https://pinboard.opera.com/view/cf9ee12d-f427-4614-887a-c1e07432498e
-[Documenting]: https://pinboard.opera.com/view/4ab72dba-6daa-4f57-908f-2bbf42eb749a
+[Publishing]: https://pinboard.opera.com/view/4ab72dba-6daa-4f57-908f-2bbf42eb749a
 [Converting]: https://pinboard.opera.com/view/0f414b40-65ce-4a32-af33-d44921f3cead
 [Packaging]: https://pinboard.opera.com/view/0da002e9-e015-4fb2-bc96-960ea0c5ccb6
 [Hosting]: https://pinboard.opera.com/view/6fae4349-af75-45d9-9547-107b0d456530
