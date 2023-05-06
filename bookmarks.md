@@ -2,33 +2,35 @@ Check out these interesting topics (*bookmarks*).
 
 | ⠀                | ⠀                     | ⠀                        | ⠀                       |
 | ---------------- | --------------------- | ------------------------ | ----------------------- |
-| 📚 **Actions**    | 🎧 [Listening]         | 📰 [Reading]              | ✍️ [Writing]             |
-|                  | 👏 [Citing]            | 💹 [Charting]             | 💟 [Decorating]          |
-|                  | 💾 [Programming]       | 📜 [Publishing]          | ✨ [Converting]          |
-|                  | 📦 [Packaging]         | 🌐 [Hosting]              |                         |
+| 📚 **Actions**    | 🎧 [Listening]       | 📰 [Reading]            | ✍️ [Writing]            |
+|                  | 💬 [Discussing]       | 👏 [Citing]             | 💹 [Charting]           |
+|                  | 💾 [Programming]      | 🧪 [Testing]            | 📜 [Publishing]         |
+|                  | ✨ [Converting]       | 📦 [Packaging]          | 🌐 [Hosting]            |
 | ⠀                | ⠀                     | ⠀                        | ⠀                       |
-| 🧑‍🤝‍🧑 **People**   | 🔬 [P-Researchers]     | 🏭 [P-Industrialists]     | 💾 [P-Programmers]       |
+| 🧑‍🤝‍🧑 **People**    | 🔬 [P-Researchers]    | 🏭 [P-Industrialists]   | 💾 [P-Programmers]      |
 | ⠀                | ⠀                     | ⠀                        | ⠀                       |
-| 📚 **References** | 🥚 [R-Eggs]            | ✒️ [R-Fonts]              | 🎮 [R-Games]             |
-|                  | 🕸️ [R-Graph Formats]   | 🌐 [R-Graph Datasets]     | 🖧 [R-Graph Libraries]   |
-|                  | 🗺️ [R-Survey Maps]     | 💍 [R-Fellowship]         | 🗳️ [R-Government]        |
+| 📚 **References** | 🥚 [R-Eggs]          | ✒️ [R-Fonts]            | 🎮 [R-Games]            |
+|                  | 🕸️ [R-Graph Formats]  | 🌐 [R-Graph Datasets]   | 🖧 [R-Graph Libraries]   |
+|                  | 🗺️ [R-Survey Maps]    | 💍 [R-Fellowship]       | 🗳️ [R-Government]        |
 | ⠀                | ⠀                     | ⠀                        | ⠀                       |
-| 📚 **Topics**     | 🗳️ [T-Politics]        | ✍️ [T-Writing]            | 📦 [T-Packaging]         |
+| 📚 **Topics**    | 🗳️ [T-Politics]        | ✍️ [T-Writing]            | 📦 [T-Packaging]         |
 |                  | 💾 [T-Programming]     | 💽 [T-Data Structures]    | 🕸️ [T-Graph Theory]      |
-|                  | 🖥️ [T-Distributed HPC] | 🖧 [T-Computer Networks]  | 🔒 [T-Computer Security] |
+|                  | 🖥️ [T-Distributed HPC] | 🖧 [T-Computer Networks]  | 🔒 [T-Computer Security]  |
 |                  | ⚙️ [T-Open Hardware]   | 🥥 [T-Health & Nutrition] | 🚀 [T-Space Exploration] |
-|                  | 🌍 [T-Geology]         | 🐘 [T-Zoology]            |                         |
+|                  | 🌍 [T-Geology]         | 🐘 [T-Zoology]            |                          |
 
-🌧️ [RainDrop bookmarks](https://raindrop.io/wolfram77)
+[//]: # (https://raindrop.io/wolfram77)
 
 [//]: # (ACTIONS)
 [Listening]: https://pinboard.opera.com/view/b2daba3e-c176-4b2a-aa9b-e55f999239c6
 [Reading]: https://pinboard.opera.com/view/487d0cff-cd94-4fd5-8a91-9c926a63a0fe
 [Writing]: https://pinboard.opera.com/view/498c54bd-84e1-42e5-92e0-e466d0a12999
+[Discussing]: https://pinboard.opera.com/view/d8614788-761b-4308-b954-d13f4eaa03b6
 [Citing]: https://pinboard.opera.com/view/c5f04167-9794-4b8e-8669-7e249e23bd95
 [Charting]: https://pinboard.opera.com/view/dc091bb6-41aa-443e-b1e5-e2b8f8c645c0
 [Decorating]: https://pinboard.opera.com/view/450c96d6-a0b2-4dbd-be8b-0ea265df2cd1
 [Programming]: https://pinboard.opera.com/view/cf9ee12d-f427-4614-887a-c1e07432498e
+[Testing]: https://pinboard.opera.com/view/fa0da126-6b9c-4da3-b930-a85cdfc19849
 [Publishing]: https://pinboard.opera.com/view/4ab72dba-6daa-4f57-908f-2bbf42eb749a
 [Converting]: https://pinboard.opera.com/view/0f414b40-65ce-4a32-af33-d44921f3cead
 [Packaging]: https://pinboard.opera.com/view/0da002e9-e015-4fb2-bc96-960ea0c5ccb6
