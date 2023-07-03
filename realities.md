@@ -16,6 +16,16 @@
 
 > Statistics don't lie, but liars use statistics. [(REF)][06agold]
 
+> He who loses his money is forsaken by his friends, his wife, his servants and his relations; yet when he regains his riches those who have forsaken him come back to him. Hence wealth is certainly the best of relations. [(REF)][07chank]
+
+> A person should not be too honest. Straight trees are cut first and honest people are screwed first. [(REF)][07chank]
+
+> Even if a snake is not poisonous, it should pretend to be venomous. [(REF)][07chank]
+
+> Virtuous persons and fruit-laden trees bow, but fools and dry sticks break because they do not bend. [(REF)][07chank]
+
+> Low class men desire wealth; middle class men both wealth and respect; but the noble, honour only; hence honour is the noble man's true wealth. [(REF)][07chank]
+
 <br>
 <br>
 
@@ -58,3 +68,4 @@
 [04wbwhy]:  https://waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html
 [05wbwhy]:  https://waitbutwhy.com/2013/07/7-ways-to-be-insufferable-on-facebook.html
 [06agold]:  https://www.youtube.com/watch?v=yaWVflQolmM
+[07chank]:  https://www.azquotes.com/author/2701-Chanakya
