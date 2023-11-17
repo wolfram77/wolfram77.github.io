@@ -1,5 +1,11 @@
 ### Ideas and Psychology
 
+My goal is to be an innovator, and keep the world a liveable place to live in. I work with both hardware and software tools, and consider failure as a setback. A research programme provides me with learning and experience for undertaking small-scale engineering projects and helps me understand the world I live in. Earlier I worked with Indian Food Composition Portal, and learned about health and nutrition. I guess robotics can solve health and nutrition problems on earth.
+
+<br>
+<br>
+
+
 #### The Boiling Frog Syndrome
 
 What happens when you put a frog in boiling water? It jumps out of course.
