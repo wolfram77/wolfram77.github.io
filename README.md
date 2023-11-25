@@ -1,13 +1,6 @@
-PhD student at CSTAR in IIIT Hyderabad and interested in 💽 Software
-engineering, 🗜️ *Carpentry*, 🔥 High performance computing, 🚲 *Cycling*, 🎁
-Embedded systems, 🍄 *Nutrition*, 💰 Investing, and 🕹️ *Watching gameplays*.<br>
+Subhajit Sahu is pursuing a doctorate degree in Computer Science and Engineering (Spring 2019 - ongoing) with [Prof. Kishore Kothapalli](https://faculty.iiit.ac.in/~kkishore/) as his thesis advisor, at [Center for Security, Theory, and Algorithmic Research (CSTAR)](https://cstar.iiit.ac.in), IIIT Hyderabad, India - 500 032. His research is in the design of [Efficient Dynamic Graph algorithms for Social Networks that leverage parallelism available on modern architectures](https://puzzlef.github.io). He has obtained a [CGPA](https://drive.google.com/file/d/1c9goUgwXkyhsWIOc873RDhTk7nEs-hJ5/view?usp=sharing) of `8.4` out of `10`.
 
-<br>
-
-
-### Beware of fraud!
-
-A man calling himself Hemant asked for help to fix his bike as his UPI transactions in Union Bank were not working, as said will pay back once he reaches office at Begumpet. He asked me to send money to the shopkeeper, by this time i was at IIIT. I sent to this shopkeeper Rs. 1150 yesterday. Night i called him at turns out phone is switched off. I message him on PhonePe and get no reply. He has made no effort to contact me after the trasaction. I called the shopkeeper today, and turns out he is another person who just paid him cash for UPI money.
+Before pursuing [PhD at IIIT Hyderabad](https://iiithf.github.io), Subhajit has worked at Qualcomm Hyderabad in debugging of Android Graphics driver, and at Verizon Hyderabad in upgrading of Cell Site Manager portal and design of [RFID-based Snacks automation system](https://github.com/raspberrypif/rfid). During his undergraduate studies in [Electronics and Communication Engineering at NIT Rourkela](https://nitrece.github.io), he has designed a [Wireless Sensor Node for Flood monitoring](https://github.com/nitrece/flood-monitoring) as his Final year project, interned at NUS Singapore where he worked on [Wireless data acquisition for NUS Smart Grid](https://github.com/nitrece/smart-grid-monitoring) and Visualization for an Underwater ROV, and interned at Tata Elxsi Bangalore where he worked on the design of Upsampler and Downsampler filters for a communication system. Subhajit also contributes [Open source software](https://nodef.github.io/). He has designed a [Natural Language Query portal for Indian Food Composition 2017](https://github.com/ifct2017/ifct2017), a simplified [Facade API for FYERS Securities](https://github.com/nodef/extra-fyers), [Array](https://github.com/nodef/extra-array) and [String](https://github.com/nodef/extra-string) manipulation utilities, and a [CLI for nvGraph](https://github.com/nodef/nvgraph.sh). At St. Paul's School, he made a number of programs with [QuickBASIC in DOS](https://qb40.github.io).
 
 <br>
 <br>
@@ -15,17 +8,17 @@ A man calling himself Hemant asked for help to fix his bike as his UPI transacti
 
 | Project | Description |
 |  ----  |  ----  |
-| ![][i-nodef] [nodef] | A summary of programs made with Node.js. |
-| ![][i-nodeico] [nodeico] | Display info card image for NPM packages (scoped). |
-| ![][i-ifct2017] [ifct2017] | Website for Indian Food Composition Tables 2017. |
-| ![][i-qb40] [qb40] | A summary of programs made with QuickBASIC in DOS. |
-| ![][i-winp] [winp] | A set of mini Windows Applications. |
 | ![][i-puzzlef] [puzzlef] | A summary of experiments. |
+| ![][i-nodef] [nodef] | A summary of programs made with Node.js. |
 | ![][i-iiithf] [iiithf] | The "really" small subset of courses i took at IIIT Hyderabad. |
 | ![][i-nitrece] [nitrece] | A summary of courses, projects, and semesters at NIT Rourkela. |
+| ![][i-qb40] [qb40] | A summary of programs made with QuickBASIC in DOS. |
+| ![][i-ifct2017] [ifct2017] | Website for Indian Food Composition Tables 2017. |
+| ![][i-processingf] [processingf] | A summary of programs made with Processing |
+| ![][i-winp] [winp] | A set of mini Windows Applications. |
+| ![][i-nodeico] [nodeico] | Display info card image for NPM packages (scoped). |
 | ![][i-racketf] [racketf] | A set of assignments in the Racket programming language. |
 | ![][i-vhdlf] [vhdlf] | A summary of VHDL examples and projects. |
-| ![][i-processingf] [processingf] | A summary of programs made with Processing |
 
 🔖 [Bookmarks](bookmarks.md)
 🤕 [Harsh realities](realities.md)
