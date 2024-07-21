@@ -26,6 +26,8 @@
 
 > Low class men desire wealth; middle class men both wealth and respect; but the noble, honour only; hence honour is the noble man's true wealth. [(REF)][07chank]
 
+> Success is owning your time and choosing your life! [(REF)][08carolyn]
+
 <br>
 <br>
 
@@ -69,3 +71,4 @@
 [05wbwhy]:  https://waitbutwhy.com/2013/07/7-ways-to-be-insufferable-on-facebook.html
 [06agold]:  https://www.youtube.com/watch?v=yaWVflQolmM
 [07chank]:  https://www.azquotes.com/author/2701-Chanakya
+[08carolyn]: https://www.youtube.com/watch?v=ENZSYzszkWM&lc=Ugwajjn9HA3dbe-1ed94AaABAg
