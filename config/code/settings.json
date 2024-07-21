@@ -1,18 +1,31 @@
 {
-    "telemetry.telemetryLevel": "error",
-    "workbench.colorTheme": "Monokai",
-    "workbench.startupEditor": "none",
-    "editor.tabSize": 2,
-    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
-    "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true,
-    "files.insertFinalNewline": true,
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "terminal.integrated.enablePersistentSessions": false,
-    "remote.SSH.remotePlatform": {
-        "indus.iiit.ac.in": "linux"
-    }
+  "telemetry.telemetryLevel": "error",
+  "workbench.colorTheme": "Monokai",
+  "workbench.startupEditor": "none",
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.enablePersistentSessions": false,
+  "C_Cpp.default.compilerPath": "d:\\Program Files\\Microsoft Visual Studio\\VC\\Tools\\MSVC\\14.33.31629\\bin\\Hostx64\\x64\\cl.exe",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.editor.enableAutoCompletions": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "autopep8.args": [
+    "--indent-size=2"
+  ]
 }
