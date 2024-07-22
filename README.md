@@ -2,9 +2,9 @@ Subhajit Sahu is pursuing a doctorate degree in Computer Science and Engineering
 
 Before pursuing [PhD at IIIT Hyderabad](https://iiithf.github.io), Subhajit has worked at Qualcomm Hyderabad in debugging of Android Graphics driver, and at Verizon Hyderabad in upgrading of Cell Site Manager portal and design of [RFID-based Snacks automation system](https://github.com/raspberrypif/rfid). During his undergraduate studies in [Electronics and Communication Engineering at NIT Rourkela](https://nitrece.github.io), he has designed a [Wireless Sensor Node for Flood monitoring](https://github.com/nitrece/flood-monitoring) as his Final year project, interned at NUS Singapore where he worked on [Wireless data acquisition for NUS Smart Grid](https://github.com/nitrece/smart-grid-monitoring) and Visualization for an Underwater ROV, and interned at Tata Elxsi Bangalore where he worked on the design of Upsampler and Downsampler filters for a communication system. Subhajit also contributes [Open source software](https://nodef.github.io/). He has designed a [Natural Language Query portal for Indian Food Composition 2017](https://github.com/ifct2017/ifct2017), a simplified [Facade API for FYERS Securities](https://github.com/nodef/extra-fyers), [Array](https://github.com/nodef/extra-array) and [String](https://github.com/nodef/extra-string) manipulation utilities, and a [CLI for nvGraph](https://github.com/nodef/nvgraph.sh). At St. Paul's School, he made a number of programs with [QuickBASIC in DOS](https://qb40.github.io).
 
-🔖 [Bookmarks](bookmarks.md)
-🤕 [Harsh realities](realities.md)
-💭 [Ideas](ideas.md)
+🔖 [Bookmarks](details/bookmarks.md)
+🤕 [Harsh realities](details/realities.md)
+💭 [Ideas](details/ideas.md)
 
 <br>
 <br>
