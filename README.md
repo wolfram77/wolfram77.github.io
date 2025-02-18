@@ -9,6 +9,8 @@ Before pursuing [PhD at IIIT Hyderabad](https://iiithf.github.io), Subhajit has 
 <br>
 <br>
 
+> "The times we value the most are those when we do not value time." \
+> "The times we live in are so uncertain that we are not even sure what we are uncertain about."
 
 [![](https://i.imgur.com/hz9LmXf.png)](https://orcid.org/0000-0001-5140-6578)
 [![github](https://img.shields.io/badge/github-wolfram77-green?logo=GitHub)](https://github.com/wolfram77)
