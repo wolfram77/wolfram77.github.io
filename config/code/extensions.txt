@@ -1,16 +1,29 @@
 - Batch Rename
 - Better C++ Syntax
 - C/C++ Extension Pack
+- C/C++ Themes
 - Carbon Product Icons
 - CMake
+- CMake Tools
+- Deno
 - Doxygen Documentation Generator
 - Excel Viewer
+- GitHub Actions
+- GitHub Copilot
+- GitHub Copilot Chat
 - Gnuplot
 - Markdown All in One
 - monokai light
+- Pylance
+- Python
+- Python Debugger
+- Python Environments
+- Rainbow CSV
 - Remote - SSH
 - Remote - SSH: Editing Configuration Files
 - Rewrap
+- SCSS IntelliSense
 - Simple Alignment
 - vscode-pdf
+- YAML
 - Code Spell Checker
