@@ -4,7 +4,8 @@ Before pursuing PhD at IIIT Hyderabad, Subhajit has worked at Qualcomm Hyderabad
 
 <!-- Subhajit Sahu is pursuing a doctorate degree in Computer Science and Engineering (Spring 2019 - ongoing) with [Prof. Kishore Kothapalli](https://faculty.iiit.ac.in/~kkishore/) as his thesis advisor, at [Center for Security, Theory, and Algorithmic Research (CSTAR)](https://cstar.iiit.ac.in), IIIT Hyderabad, India - 500 032. His research is in the design of [Efficient Dynamic Graph algorithms for Social Networks that leverage parallelism available on modern architectures](https://puzzlef.github.io). He has obtained a CGPA of `8.4` out of `10`. -->
 
-▌ 🔖 [Bookmarks](details/bookmarks.md) 🤕 [Harsh realities](details/realities.md) 💭 [Ideas](details/ideas.md)
+▌ 🔖 [Bookmarks](details/bookmarks.md) 🤕 [Harsh realities](details/realities.md) 💭 [Ideas](details/ideas.md) <br>
+▌ ⚡ [Webamp](https://webamp.org) 🎶 [Titanic Big 98](https://www.youtube.com/watch?v=T_la1yZJ9oM&list=PL-AKRvXkHVpqLJFUBXmGk4bZA8L7rg-PK)
 
 <!-- 📑 [Resume][Resume] -->
 <!-- [Resume]: https://1drv.ms/b/c/4f120548575355b2/EQt-FUyWK05Dj7gO8ky93kUBHrQXc3fpCBedezi1QdGbCw?e=hK7cRX -->
